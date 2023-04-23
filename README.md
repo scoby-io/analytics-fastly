@@ -33,7 +33,3 @@ To use this VCL snippet, you need to follow the instructions below:
 - `var.salt`: This should be replaced with a salt value.
 
 4. Include this code in your Fastly service configuration to log request details for the specified workspace.
-
-## Additional Information
-
-- Scoby Analytics provides detailed documentation on how to integrate with their platform using Fastly, which can be found in their [integration guide](https://scobyanalytics.com/docs/integrations/fastly).

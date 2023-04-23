@@ -2,7 +2,7 @@ import digest;
 
 sub vcl_deliver {
     declare local var.apiKey STRING;
-    set var.apiKey = "your_base64_encoded_api_key";
+    set var.apiKey = "your_api_key";
 
     declare local var.salt STRING;
     set var.salt = "your_salt_value";
